@@ -1,6 +1,7 @@
 # Matplotlib: Homework-The-Power-of-Plots
 
-Observations and Insights¶
+Observations and Insights
+
 After reviewing the various graphs from my analysis, I am able to make the following inferences;
 
 Bar Graphs: The drug Capomulin and Ramicane were the top two drugs that were used the most.
